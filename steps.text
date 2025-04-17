@@ -1,0 +1,6 @@
+npm inet -y
+create app.js file
+npm install express
+run project : node app.js
+npm install nodemon - nodemon app.js
+                      nodemon app.js
